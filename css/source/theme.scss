@@ -48,6 +48,11 @@ section.has-light-background {
 	}
 }
 
+.reveal section img {
+  max-width: 50%;
+}
+
+
 // Theme template ------------------------------
 @import "../../bower_components/reveal.js/css/theme/template/theme";
 // ---------------------------------------------
