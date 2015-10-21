@@ -4,5 +4,7 @@
     "tdd.html",
     "assert.md",
     "interfaces.html",
-    "gtest.html"
+    "gtest.html",
+    "kata-pares.html",
+    "kata.html"
 ]
