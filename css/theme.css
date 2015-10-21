@@ -10,6 +10,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal section img {
   max-width: 50%; }
 
+.reveal pre code {
+  max-height: 100% !important; }
+
 /*********************************************
  * GLOBAL STYLES
  *********************************************/

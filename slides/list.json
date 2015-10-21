@@ -5,7 +5,8 @@
     "assert.md",
     "interfaces.html",
     "gtest.html",
-    "kata-pares.html",
     "kata.html",
-    "kata-palindrome.html"
+    "kata-pares.html",
+    "kata-palindrome.html",
+    "kata-fizzbuzz.html"
 ]
