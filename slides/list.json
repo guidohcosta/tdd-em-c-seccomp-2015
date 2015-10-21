@@ -6,5 +6,6 @@
     "interfaces.html",
     "gtest.html",
     "kata-pares.html",
-    "kata.html"
+    "kata.html",
+    "kata-palindrome.html"
 ]
