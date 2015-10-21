@@ -1,0 +1,20 @@
+<h2>KATA: verificar pares</h2>
+
+<p>Escrever um programa que verifica se um número é par.</p>
+
+<aside class="notes">
+  gcc -Wall pares_teste.c pares.c && ./a.out
+  #include "pares.h"
+  #include assert.h>
+  #include stdbool.h>
+
+  static void test_even() {
+    assert(is_even(2) && "2 é par");
+  }
+
+  // pares.c
+  int is_even(int n) {
+    return n % 2 == 0;
+  }
+
+</aside>

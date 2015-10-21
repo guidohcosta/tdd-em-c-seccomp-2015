@@ -2,5 +2,11 @@
     "introducao.html",
     "codigo-zuado.md",
     "tdd.html",
-    "assert.md"
+    "assert.md",
+    "interfaces.html",
+    "gtest.html",
+    "kata.html",
+    "kata-pares.html",
+    "kata-palindrome.html",
+    "kata-fizzbuzz.html"
 ]
